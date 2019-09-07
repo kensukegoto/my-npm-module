@@ -1,16 +1,16 @@
 const path = require('path');
 
 const testJoin = (a, b) => {
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
-  console.log("iam super supadupa!");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
+  console.log("ヘッロー！");
   return path.join(a, b);
 };
 
