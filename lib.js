@@ -1,7 +1,7 @@
 const path = require('path');
 
 const testJoin = (a, b) => {
-  console.log("hello world");
+  console.log("hello new world");
   return path.join(a, b);
 };
 
