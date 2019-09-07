@@ -5,6 +5,12 @@
 - v2.0.0と言うタグ名だとバージョンと見なされないので注意
 - バグフィックスやマイナーチェンジはこれで対応（インストールの度に同バージョン内でアップデートされる）
 
+npm install
+
+```
+$ npm install kensukegoto/use-as-NPM-module.git#semver:^2.0.0
+```
+
 参考
 - [Githubにあげた個人のnpmパッケージをインストールする方法](https://qiita.com/wintyo/items/9ce2110f08b9776fe87f)
 
